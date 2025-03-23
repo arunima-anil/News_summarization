@@ -1,0 +1,11 @@
+streamlit
+pandas
+matplotlib 
+bs4
+lxml_html_clean
+requests
+matplotlib
+googletrans==4.0.2
+gtts
+groq==0.20.0
+beautifulsoup4
