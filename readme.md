@@ -134,7 +134,7 @@
 <ol>
   <li>
     <strong>Clone the Repository</strong>
-    <pre><code>git clone https://github.com/your-username/News_summarization.git
+    <pre><code>git clone https://github.com/arunima-anil/News_summarization.git
 cd News_summarization</code></pre>
   </li>
   <li>
