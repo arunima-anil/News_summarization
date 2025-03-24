@@ -168,6 +168,7 @@ pip install -r requirements.txt</code></pre>
     <p>Start the Streamlit app:</p>
     <pre><code>streamlit run app.py</code></pre>
     <p>The app will open in your browser at <a href="http://localhost:8501">http://localhost:8501</a>.</p>
+    <p>Deployment link in hugging face <a href="https://huggingface.co/spaces/unni69/news_summarization_streamlit">https://huggingface.co/spaces/unni69/news_summarization_streamlit</a>.</p>
   </li>
 </ol>
 
