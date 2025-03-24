@@ -134,8 +134,8 @@
 <ol>
   <li>
     <strong>Clone the Repository</strong>
-    <pre><code>git clone https://github.com/your-username/company-news-sentiment-analysis.git
-cd company-news-sentiment-analysis</code></pre>
+    <pre><code>git clone https://github.com/arunima-anil/News_summarization.git
+cd News_summarization</code></pre>
   </li>
   <li>
     <strong>Install Dependencies</strong>
